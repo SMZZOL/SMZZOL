@@ -1,26 +1,26 @@
 # Hi I'm Semin Kim 👋
 
----
-
 ## MyProjects
-## I. **MERN Stack 을 활용한 Instagram Clone Coding**
+<font color="blue">## I. **MERN Stack 을 활용한 Instagram Clone Coding**</font>
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  ### 3. 역할 및 소요시간
-
+---
 ## II. **MERN Stack 을 활용한 Instagram Clone Coding**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  
  ### 3. 역할 및 소요시간
+ ---
 ## III. **MERN Stack 을 활용한 Instagram Clone Coding**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  
  ### 3. 역할 및 소요시간
+ ---
 ## IV. **MERN Stack 을 활용한 Instagram Clone Coding**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
