@@ -2,7 +2,7 @@
 
 ## MyProjects
  ## I. **MERN Stack 을 활용한 Instagram Clone Coding**
- ### 1. 개요<br>
+ ### 1. 개요
  ### 2. 활용 기술
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -10,22 +10,20 @@
  ### 3. 역할 및 소요시간
 ---
 ## II. **머신러닝, Django를 기반 삼은 화장품 맞춤 추천 서비스**
- ### 1. 개요<br>
- ### 2. 활용 기술 <br><br>
+ ### 1. 개요
+ ### 2. 활용 기술
  
  ### 3. 역할 및 소요시간
  ---
 ## III. **Sql, SpringBoot 를 활용한 검색어 알고리즘**
- ### 1. 개요<br>
- ### 2. 활용 기술 <br><br>
- 
+ ### 1. 개요
+ ### 2. 활용 기술
  ### 3. 역할 및 소요시간
  ---
 ## IV. **색상값 RGB를 이용한 Digital Number 및 시간 구현**
- ### 1. 개요<br>
- ### 2. 활용 기술 <br><br>
+ ### 1. 개요
+ ### 2. 활용 기술
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
- 
  ### 3. 역할 및 소요시간
 
 
