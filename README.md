@@ -1,7 +1,7 @@
 # Hi I'm Semin Kim 👋
 
 ## MyProjects
-<font color="blue">## I. **MERN Stack 을 활용한 Instagram Clone Coding**</font>
+## I. <font color="blue">**MERN Stack 을 활용한 Instagram Clone Coding**</font>
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
