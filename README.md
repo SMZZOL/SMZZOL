@@ -2,7 +2,7 @@
 
 ## MyProjects
 <span style="color: blue;">
-## I. <font color="blue">**MERN Stack 을 활용한 Instagram Clone Coding**</font>
+## I. **MERN Stack 을 활용한 Instagram Clone Coding**
 </span>
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
