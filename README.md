@@ -1,6 +1,13 @@
-### Hi I'm Semin Kim 👋
+# Hi I'm Semin Kim 👋
+-------
+### MyProjects
 
-MyTech
+### MyTech
+
+### Myskill
+
+### MyLink
+
 
 <!--
 **SMZZOL/SMZZOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
