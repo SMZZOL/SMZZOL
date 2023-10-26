@@ -19,7 +19,8 @@
 ## III. **Sql, SpringBoot 를 활용한 검색어 알고리즘**
  ### 1. 개요
  ### 2. 활용 기술
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Spring Security-92CC15?style=for-the-badge&logo=spring-security&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  ### 3. 역할 및 소요시간
  ---
 ## IV. **색상값 RGB를 이용한 Digital Number 및 시간 구현**
