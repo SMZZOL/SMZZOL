@@ -1,5 +1,7 @@
 # Hi I'm Semin Kim 👋
--------
+
+---
+
 ### MyProjects
 
 ### MyTech
