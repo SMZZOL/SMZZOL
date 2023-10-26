@@ -1,8 +1,7 @@
 # Hi I'm Semin Kim 👋
 
 ## MyProjects
-<span style="color: blue;"> ## I. **MERN Stack 을 활용한 Instagram Clone Coding**</span>
-
+ ## I. **MERN Stack 을 활용한 Instagram Clone Coding**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -10,19 +9,19 @@
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  ### 3. 역할 및 소요시간
 ---
-## II. **MERN Stack 을 활용한 Instagram Clone Coding**
+## II. **머신러닝, Django를 기반 삼은 화장품 맞춤 추천 서비스**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  
  ### 3. 역할 및 소요시간
  ---
-## III. **MERN Stack 을 활용한 Instagram Clone Coding**
+## III. **Sql, SpringBoot 를 활용한 검색어 알고리즘**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
  
  ### 3. 역할 및 소요시간
  ---
-## IV. **MERN Stack 을 활용한 Instagram Clone Coding**
+## IV. **색상값 RGB를 이용한 Digital Number 및 시간 구현**
  ### 1. 개요<br>
  ### 2. 활용 기술 <br><br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
