@@ -1,7 +1,7 @@
 # Hi I'm Semin Kim 👋
 
 ## MyProjects
- ## I. **MERN Stack 을 활용한 Instagram Clone Coding**
+ ## I. [**MERN Stack 을 활용한 Instagram Clone Coding**](https://instagram-front.onrender.com/)
  - [FRONTEND](https://github.com/SMZZOL/Instagram_front)
  - [BACKEND](https://github.com/SMZZOL/Instagram_back)
 
