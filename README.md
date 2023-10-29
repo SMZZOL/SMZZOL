@@ -5,18 +5,20 @@
  - [FRONTEND](https://github.com/SMZZOL/Instagram_front)
  - [BACKEND](https://github.com/SMZZOL/Instagram_back)
 ---
+<br>
 
 ## II. [**머신러닝, Django를 기반 삼은 화장품 맞춤 추천 서비스**](https://github.com/SMZZOL/cosme_selection)
-
- ---
+<br>
+<br>
  
-## III. **Sql, SpringBoot 를 활용한 검색어 알고리즘**
-
- ---
+## III. [**Sql, SpringBoot 를 활용한 검색어 알고리즘**](https://github.com/SMZZOL/search_algorithm)
+<br>
+<br>
  
 ## IV. [**색상값 RGB를 이용한 Digital Number 및 시간 구현**](https://github.com/SMZZOL/rgb_digits)
+<br>
+<br>
 
----
 
 ## MyTech
 
