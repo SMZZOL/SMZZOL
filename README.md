@@ -13,7 +13,9 @@
  ### 3. 역할 및 소요시간
   - 개인프로젝트
   - MERN Stack 학습 기간 포함 3주간
+
 ---
+
 ## II. **머신러닝, Django를 기반 삼은 화장품 맞춤 추천 서비스**
  ### 1. 개요
  - 개인의 이용 화장품 경험을 바탕으로 화장품 추천 서비스를 제공하는 화장품 검색 웹 사이트.
@@ -25,7 +27,9 @@
  ### 3. 역할 및 소요시간
   - 5 명, 팀프로젝트. DA 와 TL 역할
   - 학습 기간 포함 한달.
+
  ---
+ 
 ## III. **Sql, SpringBoot 를 활용한 검색어 알고리즘**
  ### 1. 개요
   - 유저 별 카테고리 노출 빈도 설정 알고리즘.
@@ -34,8 +38,10 @@
  <img src="https://img.shields.io/badge/Spring Security-92CC15?style=for-the-badge&logo=spring-security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  ### 3. 역할 및 소요시간
  - 개인 졸업 프로젝트
- - 약 5주간. 
+ - 약 5주간.
+
  ---
+ 
 ## IV. **색상값 RGB를 이용한 Digital Number 및 시간 구현**
  ### 1. 개요
  
