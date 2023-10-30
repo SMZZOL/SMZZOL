@@ -1,4 +1,5 @@
-# Hi I'm Semin Kim 👋
+# Hi I'm Semin Kim 
+[# Here is My link](https://seminfolio.onrender.com)
 
 ## MyProjects
  ## I. [**MERN Stack 을 활용한 Instagram Clone Coding**](https://instagram-front.onrender.com/)
@@ -35,9 +36,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-
-
-
-## MyLink
 
 
