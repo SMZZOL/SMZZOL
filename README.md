@@ -9,7 +9,7 @@
 
 <br>
 
-## II. [**머신러닝, Django를 이욯한 화장품 맞춤 추천 서비스**](https://github.com/SMZZOL/cosme_selection)
+## II. [**머신러닝, Django를 이용한 화장품 맞춤 추천 서비스**](https://github.com/SMZZOL/cosme_selection)
 <br>
 <br>
  
